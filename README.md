@@ -8,3 +8,6 @@
 
 # Spectral Tools
 1. plot_spectrogram.m - Spectrogram using the STFT function
+
+# Citation
+Pareek, K. (2018). "Audio Analysis Tools". Unpublished manuscript, New York University.
