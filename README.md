@@ -1,4 +1,4 @@
-# Audio-Analysis-Tools
+# Audio-Analysis-Tools-in-MATLAB
 
 # Novelty Features
 1. compute_novelty_ef - Envelope Follower
