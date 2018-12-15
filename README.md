@@ -9,5 +9,8 @@
 # Spectral Tools
 1. plot_spectrogram.m - Spectrogram using the STFT function
 
+# MFCC
+Calculates the Mel Frequency Cepstral Coefficients for a given number of filters, min/max frequency range and number of DCT filters
+
 # Citation
 Pareek, K. (2018). "Audio Analysis Tools". Unpublished manuscript, New York University.
